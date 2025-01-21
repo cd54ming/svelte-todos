@@ -1,3 +1,3 @@
 # svelte todo app
 
-(DEMO)[https://kuochinming.github.io/svelte-todos/]
+[DEMO](https://cd54ming.github.io/svelte-todos/)
